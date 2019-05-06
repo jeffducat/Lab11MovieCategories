@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\Lab11MovieCategories\Lab11MovieCategories\obj\Debug\Lab11MovieCategories.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\Lab11MovieCategories\Lab11MovieCategories\obj\Debug\Lab11MovieCategories.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\Lab11MovieCategories\Lab11MovieCategories\bin\Debug\Lab11MovieCategories.exe.config
+C:\Users\jduca\source\repos\Lab11MovieCategories\Lab11MovieCategories\bin\Debug\Lab11MovieCategories.exe
+C:\Users\jduca\source\repos\Lab11MovieCategories\Lab11MovieCategories\bin\Debug\Lab11MovieCategories.pdb
+C:\Users\jduca\source\repos\Lab11MovieCategories\Lab11MovieCategories\obj\Debug\Lab11MovieCategories.exe
+C:\Users\jduca\source\repos\Lab11MovieCategories\Lab11MovieCategories\obj\Debug\Lab11MovieCategories.pdb
